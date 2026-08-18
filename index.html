@@ -1,98 +1,31 @@
 <!DOCTYPE html>
-	<html>
-	<head>
-	<meta charset='utf-8'>
-	<meta name='viewport' content='width=device-width'>
-	<title>HT Store</title>
-
-	<style>
-	body{
-		background:#000;
-		color:#fff;
-		font-family:Arial;
-		margin:0;
-	}
-
-	/* HEADER */
-	.header{
-		text-align:center;
-		padding:15px 0;
-		font-size:26px;
-		font-weight:bold;
-	}
-
-	.sub{
-		font-size:14px;
-		color:#888;
-	}
-
-	/* SEARCH */
-	#search{
-		width:90%;
-		margin:10px auto;
-		display:block;
-		padding:10px;
-		font-size:18px;
-		border-radius:6px;
-		border:none;
-		outline:none;
-	}
-
-	/* CATEGORY */
-	.category{
-		font-size:22px;
-		margin:25px 15px 10px;
-		color:#00bfff;
-		border-bottom:1px solid #222;
-		padding-bottom:6px;
-	}
-
-	/* ITEM */
-	a{
-		display:flex;
-		align-items:center;
-		gap:12px;
-		margin:10px 15px;
-		padding:16px;
-		background:#111;
-		border-radius:8px;
-		color:white;
-		text-decoration:none;
-		font-size:20px;
-	}
-
-	.icon{
-		font-size:22px;
-	}
-
-	.ver{
-		background:#1e90ff;
-		padding:3px 8px;
-		border-radius:6px;
-		font-size:14px;
-		margin-left:6px;
-	}
-
-	/* FOCUS */
-	a:focus{
-		background:#1e90ff;
-		transform:scale(1.04);
-		box-shadow:0 0 12px #1e90ff;
-		outline:none;
-	}
-	</style>
-
-	</head>
-
-	<body>
-
-	<div class="header">
-		HT Store
-		<div class="sub">🔒Chỉ dùng cá nhân giúp hệ thống luôn ổn định và hoạt động lâu dài</div>
-	</div>
-
-	<input id="search" placeholder="🔍 Tim app...">
-	<div class='category'>📺 Truyen hinh - The thao</div>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta name='viewport' content='width=device-width'>
+<title>HT Store</title>
+<style>
+*{box-sizing:border-box}
+body{background:#08090c;color:#fff;font-family:Arial,sans-serif;margin:0;padding:0 0 45px}
+.header{text-align:center;padding:22px 0 12px;font-size:32px;font-weight:bold}
+.sub{font-size:14px;color:#8f96a3;margin-top:5px}
+#search{width:calc(100% - 48px);max-width:1100px;margin:10px auto 24px;display:block;padding:15px 20px;font-size:21px;border-radius:12px;border:2px solid #252a33;background:#12151b;color:#fff;outline:none}
+#search:focus{border-color:#2d8cff;box-shadow:0 0 0 3px rgba(45,140,255,.18)}
+.category{font-size:24px;margin:28px 24px 13px;color:#69b7ff;border-bottom:1px solid #252a33;padding-bottom:9px;font-weight:bold}
+.app-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px;margin:0 24px 8px}
+a{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:9px;min-height:145px;margin:0;padding:18px 10px;background:#12151b;border:2px solid transparent;border-radius:14px;color:#fff;text-decoration:none;font-size:19px;text-align:center;box-shadow:0 3px 10px rgba(0,0,0,.25)}
+.icon{font-size:38px;line-height:1}
+.ver{background:#263b58;color:#b9dcff;padding:4px 8px;border-radius:7px;font-size:13px;margin:0}
+a:focus{background:#1769d1;border-color:#72b7ff;transform:scale(1.04);box-shadow:0 0 20px rgba(45,140,255,.5);outline:none}
+@media (max-width:900px){.app-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media (max-width:650px){.app-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+</style>
+</head>
+<body>
+<div class="header">HT Store<div class="sub">🔒Chỉ dùng cá nhân giúp hệ thống luôn ổn định và hoạt động lâu dài</div></div>
+<input id="search" placeholder="🔍 Tìm ứng dụng..." autocomplete="off">
+<div class='category'>📺 Truyen hinh - The thao</div>
+<div class='app-grid'>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/cricfy.apk' tabindex='0'><span class='icon'>📦</span> cricfy <span class='ver'>v6.8</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/dltivi.apk' tabindex='0'><span class='icon'>📦</span> dltivi <span class='ver'>v16.0.2</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/fptplay.apk' tabindex='0'><span class='icon'>📦</span> fptplay <span class='ver'>v7.32.11</span></a>
@@ -109,14 +42,18 @@
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/vmt.apk' tabindex='0'><span class='icon'>📦</span> vmt <span class='ver'>v3.0.0</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/vtvgo.apk' tabindex='0'><span class='icon'>📦</span> vtvgo <span class='ver'>v12.6.29</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/vtvprime.apk' tabindex='0'><span class='icon'>📦</span> vtvprime <span class='ver'>v1.11.0</span></a>
+</div>
 <div class='category'>📡 IPTV</div>
+<div class='app-grid'>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/iptvpro.apk' tabindex='0'><span class='icon'>📦</span> iptvpro</a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/okplayer.apk' tabindex='0'><span class='icon'>📦</span> okplayer <span class='ver'>v4.1</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/ottnavigator.apk' tabindex='0'><span class='icon'>📦</span> ottnavigator</a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/sportstv.apk' tabindex='0'><span class='icon'>📦</span> sportstv <span class='ver'>v5.2.3</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/televizof.apk' tabindex='0'><span class='icon'>📦</span> televizof</a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/tivimate.apk' tabindex='0'><span class='icon'>📦</span> tivimate <span class='ver'>v5.1.6</span></a>
+</div>
 <div class='category'>🎬 Phim truyen</div>
+<div class='app-grid'>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/chophim.apk' tabindex='0'><span class='icon'>📦</span> chophim <span class='ver'>v1.0.8</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/cloudstream.apk' tabindex='0'><span class='icon'>📦</span> cloudstream <span class='ver'>v4.8.0</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/nvcmovie.apk' tabindex='0'><span class='icon'>📦</span> nvcmovie <span class='ver'>v3.4.3</span></a>
@@ -125,7 +62,9 @@
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/rophimcobe.apk' tabindex='0'><span class='icon'>📦</span> rophimcobe <span class='ver'>v1.0.0</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/saigonphim.apk' tabindex='0'><span class='icon'>📦</span> saigonphim <span class='ver'>v1.3</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/vax.apk' tabindex='0'><span class='icon'>📦</span> vax <span class='ver'>v1.1.6</span></a>
+</div>
 <div class='category'>▶️ Youtube</div>
+<div class='app-grid'>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/mapvoice.apk' tabindex='0'><span class='icon'>📦</span> mapvoice <span class='ver'>v2.2.0</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/smarttubebeta.apk' tabindex='0'><span class='icon'>📦</span> smarttubebeta <span class='ver'>v32.10</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/supervoice.apk' tabindex='0'><span class='icon'>📦</span> supervoice <span class='ver'>v2.4.4</span></a>
@@ -133,11 +72,15 @@
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/totube.apk' tabindex='0'><span class='icon'>📦</span> totube <span class='ver'>v6.4</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/youtube.apk' tabindex='0'><span class='icon'>📦</span> youtube <span class='ver'>v5.01.314</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/youtubev2.apk' tabindex='0'><span class='icon'>📦</span> youtubev2 <span class='ver'>v2.10.17</span></a>
+</div>
 <div class='category'>🧩 Kho ung dung</div>
+<div class='app-grid'>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/aptoidetv.apk' tabindex='0'><span class='icon'>📦</span> aptoidetv <span class='ver'>v5.1.2</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/beecubestore.apk' tabindex='0'><span class='icon'>📦</span> beecubestore <span class='ver'>v3.1</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/dlstore.apk' tabindex='0'><span class='icon'>📦</span> dlstore <span class='ver'>v16.0.5</span></a>
+</div>
 <div class='category'>🛠️ Tien ich</div>
+<div class='app-grid'>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/acestream.apk' tabindex='0'><span class='icon'>📦</span> acestream</a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/buttonmapper.apk' tabindex='0'><span class='icon'>📦</span> buttonmapper</a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/castreceiver.apk' tabindex='0'><span class='icon'>📦</span> castreceiver <span class='ver'>v1.6.13</span></a>
@@ -147,32 +90,132 @@
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/katniss.apk' tabindex='0'><span class='icon'>📦</span> katniss <span class='ver'>v7.11</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/kiki.apk' tabindex='0'><span class='icon'>📦</span> kiki</a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/mxplayer.apk' tabindex='0'><span class='icon'>📦</span> mxplayer</a>
+</div>
 <div class='category'>🚀 Giao dien - Quan ly file</div>
+<div class='app-grid'>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/atvlauncherpro.apk' tabindex='0'><span class='icon'>📦</span> atvlauncherpro <span class='ver'>v0.1.36</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/esfileexplorer.apk' tabindex='0'><span class='icon'>📦</span> esfileexplorer</a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/filemanager.apk' tabindex='0'><span class='icon'>📦</span> filemanager</a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/mixplorer.apk' tabindex='0'><span class='icon'>📦</span> mixplorer</a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/projectivylauncher.apk' tabindex='0'><span class='icon'>📦</span> projectivylauncher <span class='ver'>v4.62</span></a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/xplorer.apk' tabindex='0'><span class='icon'>📦</span> xplorer</a>
+</div>
 <div class='category'>🔐 VPN</div>
+<div class='app-grid'>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/vpnnga.apk' tabindex='0'><span class='icon'>📦</span> vpnnga</a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/vpnvn.apk' tabindex='0'><span class='icon'>📦</span> vpnvn</a>
 <a href='https://github.com/huytran89/apk-store-v2/releases/latest/download/zicvpn.apk' tabindex='0'><span class='icon'>📦</span> zicvpn <span class='ver'>v0.0.1</span></a>
+</div>
 
-	<script>
-	document.getElementById("search").addEventListener("input", function() {
-		let keyword = this.value.toLowerCase();
-		let items = document.querySelectorAll("a");
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const search = document.getElementById("search");
 
-		items.forEach(i => {
-			if(i.textContent.toLowerCase().includes(keyword)){
-				i.style.display = "flex";
-			}else{
-				i.style.display = "none";
-			}
-		});
-	});
-	</script>
+    search.addEventListener("input", function () {
+        const keyword = this.value.toLowerCase().trim();
 
-	</body></html>
-	
+        document.querySelectorAll(".app-grid").forEach(function (grid) {
+            let found = 0;
+
+            grid.querySelectorAll("a").forEach(function (app) {
+                const show = keyword === "" ||
+                    app.textContent.toLowerCase().includes(keyword);
+
+                app.style.display = show ? "flex" : "none";
+                if (show) found++;
+            });
+
+            const category = grid.previousElementSibling;
+            if (category && category.classList.contains("category"))
+                category.style.display = found ? "block" : "none";
+
+            grid.style.display = found ? "grid" : "none";
+        });
+    });
+
+    search.addEventListener("keydown", function (e) {
+        if (e.key === "Enter") {
+            const first = document.querySelector(
+                ".app-grid[style*='display: grid'] a[style*='display: flex']"
+            );
+            if (first) {
+                first.focus();
+                first.scrollIntoView({behavior:"smooth",block:"center"});
+            }
+        }
+
+        if (e.key === "Escape") {
+            this.value = "";
+            this.dispatchEvent(new Event("input"));
+            this.focus();
+        }
+    });
+
+    document.addEventListener("keydown", function (e) {
+        const keys = ["ArrowLeft","ArrowRight","ArrowUp","ArrowDown"];
+        if (!keys.includes(e.key)) return;
+
+        const active = document.activeElement;
+        if (active && active.id === "search") return;
+
+        const visibleApps = Array.from(
+            document.querySelectorAll(".app-grid a")
+        ).filter(function (app) {
+            return app.style.display !== "none" && app.offsetParent !== null;
+        });
+
+        if (!visibleApps.length) return;
+
+        const currentIndex = visibleApps.indexOf(active);
+
+        if (currentIndex === -1) {
+            e.preventDefault();
+            visibleApps[0].focus();
+            visibleApps[0].scrollIntoView({behavior:"smooth",block:"center"});
+            return;
+        }
+
+        const current = visibleApps[currentIndex];
+        const rect = current.getBoundingClientRect();
+        let best = null;
+        let bestScore = Infinity;
+
+        visibleApps.forEach(function (candidate) {
+            if (candidate === current) return;
+
+            const r = candidate.getBoundingClientRect();
+            let valid = false;
+            let score = Infinity;
+
+            if (e.key === "ArrowRight" && r.left > rect.right - 5) {
+                valid = true;
+                score = (r.left - rect.right) * 10 + Math.abs(r.top - rect.top);
+            }
+            if (e.key === "ArrowLeft" && r.right < rect.left + 5) {
+                valid = true;
+                score = (rect.left - r.right) * 10 + Math.abs(r.top - rect.top);
+            }
+            if (e.key === "ArrowDown" && r.top > rect.bottom - 5) {
+                valid = true;
+                score = (r.top - rect.bottom) * 10 + Math.abs(r.left - rect.left);
+            }
+            if (e.key === "ArrowUp" && r.bottom < rect.top + 5) {
+                valid = true;
+                score = (rect.top - r.bottom) * 10 + Math.abs(r.left - rect.left);
+            }
+
+            if (valid && score < bestScore) {
+                bestScore = score;
+                best = candidate;
+            }
+        });
+
+        if (best) {
+            e.preventDefault();
+            best.focus();
+            best.scrollIntoView({behavior:"smooth",block:"center"});
+        }
+    });
+});
+</script>
+</body></html>
