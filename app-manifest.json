@@ -1,0 +1,599 @@
+{
+  "schemaVersion": 1,
+  "store": {
+    "name": "HT Store",
+    "baseUrl": "https://huytran89.github.io/apk-store-v2/"
+  },
+  "apps": [
+    {
+      "name": "cricfy",
+      "version": "v6.8",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "icons/cricfy.webp",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/cricfy.apk",
+      "downloadKey": "cricfy-apk"
+    },
+    {
+      "name": "dltivi",
+      "version": "v16.0.2",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "icons/dltivi.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/dltivi.apk",
+      "downloadKey": "dltivi-apk"
+    },
+    {
+      "name": "fptplay",
+      "version": "v7.32.11",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "icons/fptplay.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/fptplay.apk",
+      "downloadKey": "fptplay-apk"
+    },
+    {
+      "name": "getout",
+      "version": "v2.0",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "icons/getout.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/getout.apk",
+      "downloadKey": "getout-apk"
+    },
+    {
+      "name": "imedia",
+      "version": "v25.08.06",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "icons/imedia.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/imedia.apk",
+      "downloadKey": "imedia-apk"
+    },
+    {
+      "name": "mytv",
+      "version": "v4.67.0",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "icons/mytv.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/mytv.apk",
+      "downloadKey": "mytv-apk"
+    },
+    {
+      "name": "quantv",
+      "version": "v250921",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "icons/quantv.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/quantv.apk",
+      "downloadKey": "quantv-apk"
+    },
+    {
+      "name": "sportzx",
+      "version": "v3.2",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "icons/sportzx.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/sportzx.apk",
+      "downloadKey": "sportzx-apk"
+    },
+    {
+      "name": "thtv",
+      "version": "v1.1.8",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "icons/thtv.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/thtv.apk",
+      "downloadKey": "thtv-apk"
+    },
+    {
+      "name": "tv360",
+      "version": "v4.4",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "icons/tv360.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/tv360.apk",
+      "downloadKey": "tv360-apk"
+    },
+    {
+      "name": "vapptv",
+      "version": "v1.0.2",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vapptv.apk",
+      "downloadKey": "vapptv-apk"
+    },
+    {
+      "name": "vietmitv",
+      "version": "v9.0",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "icons/vietmitv.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vietmitv.apk",
+      "downloadKey": "vietmitv-apk"
+    },
+    {
+      "name": "vietplaytv",
+      "version": "v2.4",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "icons/vietplaytv.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vietplaytv.apk",
+      "downloadKey": "vietplaytv-apk"
+    },
+    {
+      "name": "vtvgo",
+      "version": "v12.6.29",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "icons/vtvgo.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vtvgo.apk",
+      "downloadKey": "vtvgo-apk"
+    },
+    {
+      "name": "vtvprime",
+      "version": "v1.11.0",
+      "description": "",
+      "category": "📺 Truyền hình - Thể thao",
+      "packageName": "",
+      "icon": "icons/vtvprime.webp",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vtvprime.apk",
+      "downloadKey": "vtvprime-apk"
+    },
+    {
+      "name": "iptvpro",
+      "version": "v9.0.4",
+      "description": "",
+      "category": "📡 IPTV",
+      "packageName": "",
+      "icon": "icons/iptvpro.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/iptvpro.apk",
+      "downloadKey": "iptvpro-apk"
+    },
+    {
+      "name": "okplayer",
+      "version": "v4.1",
+      "description": "",
+      "category": "📡 IPTV",
+      "packageName": "",
+      "icon": "icons/okplayer.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/okplayer.apk",
+      "downloadKey": "okplayer-apk"
+    },
+    {
+      "name": "ottnavigator",
+      "version": "v1.6.9.2",
+      "description": "",
+      "category": "📡 IPTV",
+      "packageName": "",
+      "icon": "icons/ottnavigator.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/ottnavigator.apk",
+      "downloadKey": "ottnavigator-apk"
+    },
+    {
+      "name": "sportstv",
+      "version": "v5.2.3",
+      "description": "",
+      "category": "📡 IPTV",
+      "packageName": "",
+      "icon": "icons/sportstv.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/sportstv.apk",
+      "downloadKey": "sportstv-apk"
+    },
+    {
+      "name": "televizof",
+      "version": "v1.9.4.0",
+      "description": "",
+      "category": "📡 IPTV",
+      "packageName": "",
+      "icon": "icons/televizof.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/televizof.apk",
+      "downloadKey": "televizof-apk"
+    },
+    {
+      "name": "tivimate",
+      "version": "v5.1.6",
+      "description": "",
+      "category": "📡 IPTV",
+      "packageName": "",
+      "icon": "icons/tivimate.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/tivimate.apk",
+      "downloadKey": "tivimate-apk"
+    },
+    {
+      "name": "chophim",
+      "version": "v1.0.11",
+      "description": "",
+      "category": "🎬 Phim truyện",
+      "packageName": "",
+      "icon": "icons/chophim.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/chophim.apk",
+      "downloadKey": "chophim-apk"
+    },
+    {
+      "name": "cloudstream",
+      "version": "v4.8.0",
+      "description": "",
+      "category": "🎬 Phim truyện",
+      "packageName": "",
+      "icon": "icons/cloudstream.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/cloudstream.apk",
+      "downloadKey": "cloudstream-apk"
+    },
+    {
+      "name": "nvcmovie",
+      "version": "v3.4.3",
+      "description": "",
+      "category": "🎬 Phim truyện",
+      "packageName": "",
+      "icon": "",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/nvcmovie.apk",
+      "downloadKey": "nvcmovie-apk"
+    },
+    {
+      "name": "nvcphim",
+      "version": "v2.2.9",
+      "description": "",
+      "category": "🎬 Phim truyện",
+      "packageName": "",
+      "icon": "",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/nvcphim.apk",
+      "downloadKey": "nvcphim-apk"
+    },
+    {
+      "name": "phim4k",
+      "version": "v2.6.6",
+      "description": "",
+      "category": "🎬 Phim truyện",
+      "packageName": "",
+      "icon": "icons/phim4k.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/phim4k.apk",
+      "downloadKey": "phim4k-apk"
+    },
+    {
+      "name": "rophimcobe",
+      "version": "v1.0.1",
+      "description": "",
+      "category": "🎬 Phim truyện",
+      "packageName": "",
+      "icon": "icons/rophimcobe.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/rophimcobe.apk",
+      "downloadKey": "rophimcobe-apk"
+    },
+    {
+      "name": "saigonphim",
+      "version": "v1.3",
+      "description": "",
+      "category": "🎬 Phim truyện",
+      "packageName": "",
+      "icon": "icons/saigonphim.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/saigonphim.apk",
+      "downloadKey": "saigonphim-apk"
+    },
+    {
+      "name": "vax",
+      "version": "v1.1.6",
+      "description": "",
+      "category": "🎬 Phim truyện",
+      "packageName": "",
+      "icon": "",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vax.apk",
+      "downloadKey": "vax-apk"
+    },
+    {
+      "name": "mapvoice",
+      "version": "v2.2.0",
+      "description": "",
+      "category": "▶️ Youtube",
+      "packageName": "",
+      "icon": "",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/mapvoice.apk",
+      "downloadKey": "mapvoice-apk"
+    },
+    {
+      "name": "smarttubebeta",
+      "version": "v32.22",
+      "description": "",
+      "category": "▶️ Youtube",
+      "packageName": "",
+      "icon": "icons/smarttubebeta.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/smarttubebeta.apk",
+      "downloadKey": "smarttubebeta-apk"
+    },
+    {
+      "name": "supervoice",
+      "version": "v2.4.4",
+      "description": "",
+      "category": "▶️ Youtube",
+      "packageName": "",
+      "icon": "",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/supervoice.apk",
+      "downloadKey": "supervoice-apk"
+    },
+    {
+      "name": "tizentube",
+      "version": "v2.0.2",
+      "description": "",
+      "category": "▶️ Youtube",
+      "packageName": "",
+      "icon": "icons/tizentube.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/tizentube.apk",
+      "downloadKey": "tizentube-apk"
+    },
+    {
+      "name": "totube",
+      "version": "v6.4",
+      "description": "",
+      "category": "▶️ Youtube",
+      "packageName": "",
+      "icon": "",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/totube.apk",
+      "downloadKey": "totube-apk"
+    },
+    {
+      "name": "youtube",
+      "version": "v5.01.314",
+      "description": "",
+      "category": "▶️ Youtube",
+      "packageName": "",
+      "icon": "icons/youtube.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/youtube.apk",
+      "downloadKey": "youtube-apk"
+    },
+    {
+      "name": "youtubev2",
+      "version": "v2.10.17",
+      "description": "",
+      "category": "▶️ Youtube",
+      "packageName": "",
+      "icon": "icons/youtubev2.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/youtubev2.apk",
+      "downloadKey": "youtubev2-apk"
+    },
+    {
+      "name": "aptoidetv",
+      "version": "v5.1.2",
+      "description": "",
+      "category": "🧩 Kho ứng dụng",
+      "packageName": "",
+      "icon": "icons/aptoidetv.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/aptoidetv.apk",
+      "downloadKey": "aptoidetv-apk"
+    },
+    {
+      "name": "beecubestore",
+      "version": "v3.1",
+      "description": "",
+      "category": "🧩 Kho ứng dụng",
+      "packageName": "",
+      "icon": "icons/beecubestore.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/beecubestore.apk",
+      "downloadKey": "beecubestore-apk"
+    },
+    {
+      "name": "dlstore",
+      "version": "v16.0.5",
+      "description": "",
+      "category": "🧩 Kho ứng dụng",
+      "packageName": "",
+      "icon": "icons/dlstore.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/dlstore.apk",
+      "downloadKey": "dlstore-apk"
+    },
+    {
+      "name": "acestream",
+      "version": "v3.2.18.0",
+      "description": "",
+      "category": "🛠️ Tiện ích",
+      "packageName": "",
+      "icon": "icons/acestream.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/acestream.apk",
+      "downloadKey": "acestream-apk"
+    },
+    {
+      "name": "airreceiver",
+      "version": "",
+      "description": "",
+      "category": "🛠️ Tiện ích",
+      "packageName": "",
+      "icon": "icons/airreceiver.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/airreceiver.apk",
+      "downloadKey": "airreceiver-apk"
+    },
+    {
+      "name": "buttonmapper",
+      "version": "v1.48",
+      "description": "",
+      "category": "🛠️ Tiện ích",
+      "packageName": "",
+      "icon": "icons/buttonmapper.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/buttonmapper.apk",
+      "downloadKey": "buttonmapper-apk"
+    },
+    {
+      "name": "castreceiver",
+      "version": "v1.6.13",
+      "description": "",
+      "category": "🛠️ Tiện ích",
+      "packageName": "",
+      "icon": "icons/castreceiver.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/castreceiver.apk",
+      "downloadKey": "castreceiver-apk"
+    },
+    {
+      "name": "coccoc",
+      "version": "v1.6",
+      "description": "",
+      "category": "🛠️ Tiện ích",
+      "packageName": "",
+      "icon": "icons/coccoc.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/coccoc.apk",
+      "downloadKey": "coccoc-apk"
+    },
+    {
+      "name": "downloader",
+      "version": "v2.0.3",
+      "description": "",
+      "category": "🛠️ Tiện ích",
+      "packageName": "",
+      "icon": "icons/downloader.webp",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/downloader.apk",
+      "downloadKey": "downloader-apk"
+    },
+    {
+      "name": "imoulife",
+      "version": "v1.1.0",
+      "description": "",
+      "category": "🛠️ Tiện ích",
+      "packageName": "",
+      "icon": "icons/imoulife.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/imoulife.apk",
+      "downloadKey": "imoulife-apk"
+    },
+    {
+      "name": "katniss",
+      "version": "v7.11",
+      "description": "",
+      "category": "🛠️ Tiện ích",
+      "packageName": "",
+      "icon": "",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/katniss.apk",
+      "downloadKey": "katniss-apk"
+    },
+    {
+      "name": "kiki",
+      "version": "v24.01.01",
+      "description": "",
+      "category": "🛠️ Tiện ích",
+      "packageName": "",
+      "icon": "icons/kiki.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/kiki.apk",
+      "downloadKey": "kiki-apk"
+    },
+    {
+      "name": "mxplayer",
+      "version": "v1.86.0",
+      "description": "",
+      "category": "🛠️ Tiện ích",
+      "packageName": "",
+      "icon": "icons/mxplayer.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/mxplayer.apk",
+      "downloadKey": "mxplayer-apk"
+    },
+    {
+      "name": "tvlaucher",
+      "version": "v6.7.6",
+      "description": "",
+      "category": "🛠️ Tiện ích",
+      "packageName": "",
+      "icon": "",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/tvlaucher.apk",
+      "downloadKey": "tvlaucher-apk"
+    },
+    {
+      "name": "atvlauncherpro",
+      "version": "v0.1.36",
+      "description": "",
+      "category": "🚀 Giao diện - Quản lý file",
+      "packageName": "",
+      "icon": "icons/atvlauncherpro.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/atvlauncherpro.apk",
+      "downloadKey": "atvlauncherpro-apk"
+    },
+    {
+      "name": "esfileexplorer",
+      "version": "v4.4.1.13",
+      "description": "",
+      "category": "🚀 Giao diện - Quản lý file",
+      "packageName": "",
+      "icon": "icons/esfileexplorer.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/esfileexplorer.apk",
+      "downloadKey": "esfileexplorer-apk"
+    },
+    {
+      "name": "filemanager",
+      "version": "v3.3.1",
+      "description": "",
+      "category": "🚀 Giao diện - Quản lý file",
+      "packageName": "",
+      "icon": "icons/filemanager.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/filemanager.apk",
+      "downloadKey": "filemanager-apk"
+    },
+    {
+      "name": "mixplorer",
+      "version": "v6.68.4",
+      "description": "",
+      "category": "🚀 Giao diện - Quản lý file",
+      "packageName": "",
+      "icon": "icons/mixplorer.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/mixplorer.apk",
+      "downloadKey": "mixplorer-apk"
+    },
+    {
+      "name": "projectivylauncher",
+      "version": "v4.62",
+      "description": "",
+      "category": "🚀 Giao diện - Quản lý file",
+      "packageName": "",
+      "icon": "icons/projectivylauncher.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/projectivylauncher.apk",
+      "downloadKey": "projectivylauncher-apk"
+    },
+    {
+      "name": "xplorer",
+      "version": "v4.44.2",
+      "description": "",
+      "category": "🚀 Giao diện - Quản lý file",
+      "packageName": "",
+      "icon": "icons/xplorer.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/xplorer.apk",
+      "downloadKey": "xplorer-apk"
+    },
+    {
+      "name": "vpnnga",
+      "version": "v9.0",
+      "description": "",
+      "category": "🔐 VPN",
+      "packageName": "",
+      "icon": "icons/vpnnga.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vpnnga.apk",
+      "downloadKey": "vpnnga-apk"
+    },
+    {
+      "name": "vpnvn",
+      "version": "v4.6.2.6",
+      "description": "",
+      "category": "🔐 VPN",
+      "packageName": "",
+      "icon": "icons/vpnvn.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vpnvn.apk",
+      "downloadKey": "vpnvn-apk"
+    },
+    {
+      "name": "zicvpn",
+      "version": "v0.0.1",
+      "description": "",
+      "category": "🔐 VPN",
+      "packageName": "",
+      "icon": "",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/zicvpn.apk",
+      "downloadKey": "zicvpn-apk"
+    }
+  ]
+}
