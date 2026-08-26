@@ -111,7 +111,7 @@
       "description": "",
       "category": "📺 Truyền hình - Thể thao",
       "packageName": "",
-      "icon": "",
+      "icon": "icons/vapptv.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vapptv.apk",
       "downloadKey": "vapptv-apk"
     },
@@ -241,7 +241,7 @@
       "description": "",
       "category": "🎬 Phim truyện",
       "packageName": "",
-      "icon": "",
+      "icon": "icons/nvcmovie.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/nvcmovie.apk",
       "downloadKey": "nvcmovie-apk"
     },
@@ -251,7 +251,7 @@
       "description": "",
       "category": "🎬 Phim truyện",
       "packageName": "",
-      "icon": "",
+      "icon": "icons/nvcphim.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/nvcphim.apk",
       "downloadKey": "nvcphim-apk"
     },
@@ -291,7 +291,7 @@
       "description": "",
       "category": "🎬 Phim truyện",
       "packageName": "",
-      "icon": "",
+      "icon": "icons/vax.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vax.apk",
       "downloadKey": "vax-apk"
     },
@@ -301,7 +301,7 @@
       "description": "",
       "category": "▶️ Youtube",
       "packageName": "",
-      "icon": "",
+      "icon": "icons/mapvoice.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/mapvoice.apk",
       "downloadKey": "mapvoice-apk"
     },
@@ -321,7 +321,7 @@
       "description": "",
       "category": "▶️ Youtube",
       "packageName": "",
-      "icon": "",
+      "icon": "icons/supervoive.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/supervoice.apk",
       "downloadKey": "supervoice-apk"
     },
@@ -341,7 +341,7 @@
       "description": "",
       "category": "▶️ Youtube",
       "packageName": "",
-      "icon": "",
+      "icon": "icons/totube.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/totube.apk",
       "downloadKey": "totube-apk"
     },
@@ -471,7 +471,7 @@
       "description": "",
       "category": "🛠️ Tiện ích",
       "packageName": "",
-      "icon": "",
+      "icon": "icons/katniss.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/katniss.apk",
       "downloadKey": "katniss-apk"
     },
@@ -501,7 +501,7 @@
       "description": "",
       "category": "🛠️ Tiện ích",
       "packageName": "",
-      "icon": "",
+      "icon": "icons/tvlaucher.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/tvlaucher.apk",
       "downloadKey": "tvlaucher-apk"
     },
@@ -591,7 +591,7 @@
       "description": "",
       "category": "🔐 VPN",
       "packageName": "",
-      "icon": "",
+      "icon": "icons/zicvpn.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/zicvpn.apk",
       "downloadKey": "zicvpn-apk"
     }
