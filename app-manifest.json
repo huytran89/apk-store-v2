@@ -16,16 +16,6 @@
       "downloadKey": "cricfy-apk"
     },
     {
-      "name": "daotv",
-      "version": "2.2.8",
-      "description": "",
-      "category": "📺 Truyền hình - Thể thao",
-      "packageName": "",
-      "icon": "icons/daotv.png",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/daotv.apk",
-      "downloadKey": "daotv-apk"
-    },
-    {
       "name": "dltivi",
       "version": "16.0.2",
       "description": "",
@@ -97,11 +87,11 @@
     },
     {
       "name": "thtv",
-      "version": "1.1.8",
+      "version": "1.1.9",
       "description": "",
       "category": "📺 Truyền hình - Thể thao",
       "packageName": "",
-      "icon": "icons/thtv.jpg",
+      "icon": "icons/thtv.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/thtv.apk",
       "downloadKey": "thtv-apk"
     },
@@ -257,7 +247,7 @@
     },
     {
       "name": "phim4k",
-      "version": "2.6.7",
+      "version": "2.6.8",
       "description": "",
       "category": "🎬 Phim truyện",
       "packageName": "",
