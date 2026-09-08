@@ -6,16 +6,6 @@
   },
   "apps": [
     {
-      "name": "cricfy",
-      "version": "6.8",
-      "description": "",
-      "category": "📺 Truyền hình",
-      "packageName": "",
-      "icon": "icons/cricfy.webp",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/cricfy.apk",
-      "downloadKey": "cricfy-apk"
-    },
-    {
       "name": "dltivi",
       "version": "16.0.2",
       "description": "",
@@ -34,16 +24,6 @@
       "icon": "icons/fptplay.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/fptplay.apk",
       "downloadKey": "fptplay-apk"
-    },
-    {
-      "name": "getout",
-      "version": "2.0",
-      "description": "",
-      "category": "📺 Truyền hình",
-      "packageName": "",
-      "icon": "icons/getout.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/getout.apk",
-      "downloadKey": "getout-apk"
     },
     {
       "name": "imedia",
@@ -74,16 +54,6 @@
       "icon": "icons/quantv.jpg",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/quantv.apk",
       "downloadKey": "quantv-apk"
-    },
-    {
-      "name": "sportzx",
-      "version": "3.2",
-      "description": "",
-      "category": "📺 Truyền hình",
-      "packageName": "",
-      "icon": "icons/sportzx.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/sportzx.apk",
-      "downloadKey": "sportzx-apk"
     },
     {
       "name": "thtv",
@@ -491,7 +461,7 @@
       "description": "",
       "category": "🛠️ Tiện ích",
       "packageName": "",
-      "icon": "icons/katniss.jpg",
+      "icon": "icons/katniss.webp",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/katniss.apk",
       "downloadKey": "katniss-apk"
     },
