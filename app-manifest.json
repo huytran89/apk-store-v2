@@ -486,16 +486,6 @@
       "downloadKey": "mxplayer-apk"
     },
     {
-      "name": "tvlaucher",
-      "version": "6.7.6",
-      "description": "",
-      "category": "🛠️ Tiện ích",
-      "packageName": "",
-      "icon": "icons/tvlaucher.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/tvlaucher.apk",
-      "downloadKey": "tvlaucher-apk"
-    },
-    {
       "name": "atvlauncherpro",
       "version": "0.1.36",
       "description": "",
@@ -544,6 +534,16 @@
       "icon": "icons/projectivylauncher.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/projectivylauncher.apk",
       "downloadKey": "projectivylauncher-apk"
+    },
+    {
+      "name": "tvlauncher",
+      "version": "6.7.6",
+      "description": "",
+      "category": "🚀 Giao diện - Quản lý file",
+      "packageName": "",
+      "icon": "icons/tvlauncher.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/tvlauncher.apk",
+      "downloadKey": "tvlauncher-apk"
     },
     {
       "name": "xplorer",
