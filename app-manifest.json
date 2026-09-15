@@ -46,6 +46,16 @@
       "downloadKey": "mytv-apk"
     },
     {
+      "name": "qtv",
+      "version": "5.12",
+      "description": "",
+      "category": "📺 Truyền hình",
+      "packageName": "",
+      "icon": "icons/qtv.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/qtv.apk",
+      "downloadKey": "qtv-apk"
+    },
+    {
       "name": "quantv",
       "version": "250921",
       "description": "",
@@ -114,6 +124,16 @@
       "icon": "icons/vtvprime.webp",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vtvprime.apk",
       "downloadKey": "vtvprime-apk"
+    },
+    {
+      "name": "xemkenh",
+      "version": "1.0.9",
+      "description": "",
+      "category": "📺 Truyền hình",
+      "packageName": "",
+      "icon": "icons/xemkenh.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/xemkenh.apk",
+      "downloadKey": "xemkenh-apk"
     },
     {
       "name": "cricfy",
