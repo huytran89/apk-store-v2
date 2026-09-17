@@ -166,6 +166,16 @@
       "downloadKey": "sportzx-apk"
     },
     {
+      "name": "cloudstream",
+      "version": "4.8.0",
+      "description": "",
+      "category": "📡 IPTV",
+      "packageName": "",
+      "icon": "icons/cloudstream.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/cloudstream.apk",
+      "downloadKey": "cloudstream-apk"
+    },
+    {
       "name": "iptvpro",
       "version": "9.0.4",
       "description": "",
@@ -236,16 +246,6 @@
       "downloadKey": "chophim-apk"
     },
     {
-      "name": "cloudstream",
-      "version": "4.8.0",
-      "description": "",
-      "category": "🎬 Phim truyện",
-      "packageName": "",
-      "icon": "icons/cloudstream.png",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/cloudstream.apk",
-      "downloadKey": "cloudstream-apk"
-    },
-    {
       "name": "nvcmovie",
       "version": "3.4.8",
       "description": "",
@@ -294,16 +294,6 @@
       "icon": "icons/saigonphim.jpg",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/saigonphim.apk",
       "downloadKey": "saigonphim-apk"
-    },
-    {
-      "name": "vax",
-      "version": "1.8.9",
-      "description": "",
-      "category": "🎬 Phim truyện",
-      "packageName": "",
-      "icon": "icons/vax.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vax.apk",
-      "downloadKey": "vax-apk"
     },
     {
       "name": "mapvoice",
