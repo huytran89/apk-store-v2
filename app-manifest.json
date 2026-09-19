@@ -156,6 +156,16 @@
       "downloadKey": "getout-apk"
     },
     {
+      "name": "sportstream",
+      "version": "1.0",
+      "description": "",
+      "category": "⚽ Thể thao",
+      "packageName": "",
+      "icon": "icons/sportstream.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/sportstream.apk",
+      "downloadKey": "sportstream-apk"
+    },
+    {
       "name": "sportzx",
       "version": "3.2",
       "description": "",
