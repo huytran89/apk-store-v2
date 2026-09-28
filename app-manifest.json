@@ -166,6 +166,46 @@
       "downloadKey": "sportzx-apk"
     },
     {
+      "name": "chophim",
+      "version": "1.1",
+      "description": "",
+      "category": "🎬 Phim truyện",
+      "packageName": "",
+      "icon": "icons/chophim.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/chophim.apk",
+      "downloadKey": "chophim-apk"
+    },
+    {
+      "name": "phim4k",
+      "version": "2.6.8",
+      "description": "",
+      "category": "🎬 Phim truyện",
+      "packageName": "",
+      "icon": "icons/phim4k.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/phim4k.apk",
+      "downloadKey": "phim4k-apk"
+    },
+    {
+      "name": "rophimcobe",
+      "version": "1.0.1",
+      "description": "",
+      "category": "🎬 Phim truyện",
+      "packageName": "",
+      "icon": "icons/rophimcobe.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/rophimcobe.apk",
+      "downloadKey": "rophimcobe-apk"
+    },
+    {
+      "name": "saigonphim",
+      "version": "1.7",
+      "description": "",
+      "category": "🎬 Phim truyện",
+      "packageName": "",
+      "icon": "icons/saigonphim.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/saigonphim.apk",
+      "downloadKey": "saigonphim-apk"
+    },
+    {
       "name": "cloudstream",
       "version": "4.8.0",
       "description": "",
@@ -234,66 +274,6 @@
       "icon": "icons/tivimate.jpg",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/tivimate.apk",
       "downloadKey": "tivimate-apk"
-    },
-    {
-      "name": "chophim",
-      "version": "1.1",
-      "description": "",
-      "category": "🎬 Phim truyện",
-      "packageName": "",
-      "icon": "icons/chophim.png",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/chophim.apk",
-      "downloadKey": "chophim-apk"
-    },
-    {
-      "name": "nvcmovie",
-      "version": "3.4.8",
-      "description": "",
-      "category": "🎬 Phim truyện",
-      "packageName": "",
-      "icon": "icons/nvcmovie.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/nvcmovie.apk",
-      "downloadKey": "nvcmovie-apk"
-    },
-    {
-      "name": "nvcphim",
-      "version": "2.3.7",
-      "description": "",
-      "category": "🎬 Phim truyện",
-      "packageName": "",
-      "icon": "icons/nvcphim.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/nvcphim.apk",
-      "downloadKey": "nvcphim-apk"
-    },
-    {
-      "name": "phim4k",
-      "version": "2.6.8",
-      "description": "",
-      "category": "🎬 Phim truyện",
-      "packageName": "",
-      "icon": "icons/phim4k.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/phim4k.apk",
-      "downloadKey": "phim4k-apk"
-    },
-    {
-      "name": "rophimcobe",
-      "version": "1.0.1",
-      "description": "",
-      "category": "🎬 Phim truyện",
-      "packageName": "",
-      "icon": "icons/rophimcobe.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/rophimcobe.apk",
-      "downloadKey": "rophimcobe-apk"
-    },
-    {
-      "name": "saigonphim",
-      "version": "1.7",
-      "description": "",
-      "category": "🎬 Phim truyện",
-      "packageName": "",
-      "icon": "icons/saigonphim.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/saigonphim.apk",
-      "downloadKey": "saigonphim-apk"
     },
     {
       "name": "mapvoice",
