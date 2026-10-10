@@ -326,6 +326,16 @@
       "downloadKey": "supervoice-apk"
     },
     {
+      "name": "tiktok",
+      "version": "39.9.3",
+      "description": "",
+      "category": "▶️ Youtube",
+      "packageName": "",
+      "icon": "icons/tiktok.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/tiktok.apk",
+      "downloadKey": "tiktok-apk"
+    },
+    {
       "name": "tizentube",
       "version": "2.0.2",
       "description": "",
