@@ -146,14 +146,14 @@
       "downloadKey": "cricfy-apk"
     },
     {
-      "name": "getout",
+      "name": "getout-vip",
       "version": "99.9",
       "description": "",
       "category": "⚽ Thể thao",
       "packageName": "",
-      "icon": "icons/getout.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/getout.apk",
-      "downloadKey": "getout-apk"
+      "icon": "icons/getout-vip.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/getout-vip.apk",
+      "downloadKey": "getout-vip-apk"
     },
     {
       "name": "lautv",
