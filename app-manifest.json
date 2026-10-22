@@ -516,6 +516,16 @@
       "downloadKey": "atvlauncherpro-apk"
     },
     {
+      "name": "cleantv",
+      "version": "1.0",
+      "description": "",
+      "category": "🚀 Giao diện - Quản lý file",
+      "packageName": "",
+      "icon": "icons/cleantv.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/cleantv.apk",
+      "downloadKey": "cleantv-apk"
+    },
+    {
       "name": "esfileexplorer",
       "version": "4.4.1.13",
       "description": "",
