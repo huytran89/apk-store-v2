@@ -187,7 +187,7 @@
     },
     {
       "name": "nvcphim",
-      "version": "2.4.4",
+      "version": "2.4.5",
       "description": "",
       "category": "🎬 Phim truyện",
       "packageName": "",
@@ -204,16 +204,6 @@
       "icon": "icons/phim4k.jpg",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/phim4k.apk",
       "downloadKey": "phim4k-apk"
-    },
-    {
-      "name": "saigonphim",
-      "version": "1.7",
-      "description": "",
-      "category": "🎬 Phim truyện",
-      "packageName": "",
-      "icon": "icons/saigonphim.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/saigonphim.apk",
-      "downloadKey": "saigonphim-apk"
     },
     {
       "name": "cloudstream",
