@@ -176,14 +176,14 @@
       "downloadKey": "sportzx-apk"
     },
     {
-      "name": "chophim",
-      "version": "1.1",
+      "name": "hieugacinema",
+      "version": "3.05",
       "description": "",
       "category": "🎬 Phim truyện",
       "packageName": "",
-      "icon": "icons/chophim.png",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/chophim.apk",
-      "downloadKey": "chophim-apk"
+      "icon": "icons/hieugacinema.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/hieugacinema.apk",
+      "downloadKey": "hieugacinema-apk"
     },
     {
       "name": "nvcphim",
@@ -204,6 +204,16 @@
       "icon": "icons/phim4k.jpg",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/phim4k.apk",
       "downloadKey": "phim4k-apk"
+    },
+    {
+      "name": "rapphim",
+      "version": "1.1.0",
+      "description": "",
+      "category": "🎬 Phim truyện",
+      "packageName": "",
+      "icon": "icons/rapphim.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/rapphim.apk",
+      "downloadKey": "rapphim-apk"
     },
     {
       "name": "cloudstream",
@@ -256,16 +266,6 @@
       "downloadKey": "sportstv-apk"
     },
     {
-      "name": "televizof",
-      "version": "1.9.4.0",
-      "description": "",
-      "category": "📡 IPTV",
-      "packageName": "",
-      "icon": "icons/televizof.png",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/televizof.apk",
-      "downloadKey": "televizof-apk"
-    },
-    {
       "name": "tivimate",
       "version": "5.1.6",
       "description": "",
@@ -274,6 +274,16 @@
       "icon": "icons/tivimate.jpg",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/tivimate.apk",
       "downloadKey": "tivimate-apk"
+    },
+    {
+      "name": "vaxplayer",
+      "version": "1.9.9",
+      "description": "",
+      "category": "📡 IPTV",
+      "packageName": "",
+      "icon": "",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vaxplayer.apk",
+      "downloadKey": "vaxplayer-apk"
     },
     {
       "name": "mapvoice",
