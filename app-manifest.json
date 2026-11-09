@@ -106,6 +106,16 @@
       "downloadKey": "vietplaytv-apk"
     },
     {
+      "name": "vttv",
+      "version": "1.0.11",
+      "description": "",
+      "category": "📺 Truyền hình",
+      "packageName": "",
+      "icon": "icons/vttv.png",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vttv.apk",
+      "downloadKey": "vttv-apk"
+    },
+    {
       "name": "vtvgo",
       "version": "12.6.29",
       "description": "",
