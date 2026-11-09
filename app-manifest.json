@@ -436,16 +436,6 @@
       "downloadKey": "buttonmapper-apk"
     },
     {
-      "name": "castreceiver",
-      "version": "1.6.13",
-      "description": "",
-      "category": "🛠️ Tiện ích",
-      "packageName": "",
-      "icon": "icons/castreceiver.png",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/castreceiver.apk",
-      "downloadKey": "castreceiver-apk"
-    },
-    {
       "name": "coccoc",
       "version": "1.6",
       "description": "",
@@ -536,16 +526,6 @@
       "downloadKey": "cleantv-apk"
     },
     {
-      "name": "esfileexplorer",
-      "version": "4.4.1.13",
-      "description": "",
-      "category": "🚀 Giao diện - Quản lý file",
-      "packageName": "",
-      "icon": "icons/esfileexplorer.png",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/esfileexplorer.apk",
-      "downloadKey": "esfileexplorer-apk"
-    },
-    {
       "name": "filemanager",
       "version": "3.3.1",
       "description": "",
@@ -554,16 +534,6 @@
       "icon": "icons/filemanager.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/filemanager.apk",
       "downloadKey": "filemanager-apk"
-    },
-    {
-      "name": "mixplorer",
-      "version": "6.68.4",
-      "description": "",
-      "category": "🚀 Giao diện - Quản lý file",
-      "packageName": "",
-      "icon": "icons/mixplorer.png",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/mixplorer.apk",
-      "downloadKey": "mixplorer-apk"
     },
     {
       "name": "projectivylauncher",
