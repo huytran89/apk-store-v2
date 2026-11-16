@@ -166,14 +166,14 @@
       "downloadKey": "getout-apk"
     },
     {
-      "name": "lautv",
-      "version": "0.8",
+      "name": "luxubu",
+      "version": "1.0.2",
       "description": "",
       "category": "⚽ Thể thao",
       "packageName": "",
-      "icon": "icons/lautv.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/lautv.apk",
-      "downloadKey": "lautv-apk"
+      "icon": "icons/luxubu.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/luxubu.apk",
+      "downloadKey": "luxubu-apk"
     },
     {
       "name": "sportzx",
