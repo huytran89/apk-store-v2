@@ -26,16 +26,6 @@
       "downloadKey": "fptplay-apk"
     },
     {
-      "name": "imedia",
-      "version": "25.08.06",
-      "description": "",
-      "category": "📺 Truyền hình",
-      "packageName": "",
-      "icon": "icons/imedia.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/imedia.apk",
-      "downloadKey": "imedia-apk"
-    },
-    {
       "name": "mytv",
       "version": "4.67.0",
       "description": "",
@@ -86,16 +76,6 @@
       "downloadKey": "tv360-apk"
     },
     {
-      "name": "vietmitv",
-      "version": "20",
-      "description": "",
-      "category": "📺 Truyền hình",
-      "packageName": "",
-      "icon": "icons/vietmitv.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vietmitv.apk",
-      "downloadKey": "vietmitv-apk"
-    },
-    {
       "name": "vietplaytv",
       "version": "2.4",
       "description": "",
@@ -134,16 +114,6 @@
       "icon": "icons/vtvprime.webp",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/vtvprime.apk",
       "downloadKey": "vtvprime-apk"
-    },
-    {
-      "name": "xemkenh",
-      "version": "1.1.0",
-      "description": "",
-      "category": "📺 Truyền hình",
-      "packageName": "",
-      "icon": "icons/xemkenh.jpg",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/xemkenh.apk",
-      "downloadKey": "xemkenh-apk"
     },
     {
       "name": "cricfy",
@@ -264,16 +234,6 @@
       "icon": "icons/okplayer.jpg",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/okplayer.apk",
       "downloadKey": "okplayer-apk"
-    },
-    {
-      "name": "ottnavigator",
-      "version": "1.6.9.2",
-      "description": "",
-      "category": "📡 IPTV",
-      "packageName": "",
-      "icon": "icons/ottnavigator.png",
-      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/ottnavigator.apk",
-      "downloadKey": "ottnavigator-apk"
     },
     {
       "name": "sportstv",
