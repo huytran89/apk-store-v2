@@ -136,6 +136,16 @@
       "downloadKey": "getout-apk"
     },
     {
+      "name": "kienplayertv",
+      "version": "1.1.20",
+      "description": "",
+      "category": "⚽ Thể thao",
+      "packageName": "",
+      "icon": "icons/kienplayertv.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/kienplayertv.apk",
+      "downloadKey": "kienplayertv-apk"
+    },
+    {
       "name": "luxubu",
       "version": "1.0.2",
       "description": "",
@@ -277,7 +287,7 @@
     },
     {
       "name": "smarttubebeta",
-      "version": "32.77",
+      "version": "32.80",
       "description": "",
       "category": "▶️ Youtube",
       "packageName": "",
