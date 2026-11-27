@@ -137,7 +137,7 @@
     },
     {
       "name": "kienplayertv",
-      "version": "1.1.20",
+      "version": "1.1.21",
       "description": "",
       "category": "⚽ Thể thao",
       "packageName": "",
@@ -167,7 +167,7 @@
     },
     {
       "name": "chophim",
-      "version": "1.1.0",
+      "version": "2.0",
       "description": "",
       "category": "🎬 Phim truyện",
       "packageName": "",
@@ -187,7 +187,7 @@
     },
     {
       "name": "hieugacinema",
-      "version": "3.05",
+      "version": "3.0.15",
       "description": "",
       "category": "🎬 Phim truyện",
       "packageName": "",
@@ -224,6 +224,16 @@
       "icon": "icons/rapphim.png",
       "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/rapphim.apk",
       "downloadKey": "rapphim-apk"
+    },
+    {
+      "name": "ximaofilm",
+      "version": "1.0.9",
+      "description": "",
+      "category": "🎬 Phim truyện",
+      "packageName": "",
+      "icon": "icons/ximaofilm.jpg",
+      "apk": "https://github.com/huytran89/apk-store-v2/releases/latest/download/ximaofilm.apk",
+      "downloadKey": "ximaofilm-apk"
     },
     {
       "name": "cloudstream",
@@ -287,7 +297,7 @@
     },
     {
       "name": "smarttubebeta",
-      "version": "32.80",
+      "version": "32.85",
       "description": "",
       "category": "▶️ Youtube",
       "packageName": "",
